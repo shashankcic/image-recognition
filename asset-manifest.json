@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/image-recognition/static/css/main.c2097675.chunk.css",
+    "main.js": "/image-recognition/static/js/main.05a82fe8.chunk.js",
+    "main.js.map": "/image-recognition/static/js/main.05a82fe8.chunk.js.map",
+    "runtime~main.js": "/image-recognition/static/js/runtime~main.1bab8aa3.js",
+    "runtime~main.js.map": "/image-recognition/static/js/runtime~main.1bab8aa3.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/image-recognition/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.a24f987a.chunk.js": "/image-recognition/static/js/2.a24f987a.chunk.js",
+    "static/js/2.a24f987a.chunk.js.map": "/image-recognition/static/js/2.a24f987a.chunk.js.map",
+    "index.html": "/image-recognition/index.html",
+    "precache-manifest.3af24a4b93cbe74df5c90d12775c0736.js": "/image-recognition/precache-manifest.3af24a4b93cbe74df5c90d12775c0736.js",
+    "service-worker.js": "/image-recognition/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/image-recognition/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.c2097675.chunk.css.map": "/image-recognition/static/css/main.c2097675.chunk.css.map"
+  }
+}
