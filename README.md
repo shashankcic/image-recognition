@@ -1,4 +1,4 @@
-# Image Recognition (React Web App) - FrontEnd
+# Image Recognition App (React Web App) - FrontEnd
 This Web Application is under construction, it can also be seen [here.](https://shashankcic.github.io/image-recognition/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
